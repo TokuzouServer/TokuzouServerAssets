@@ -113,4 +113,5 @@ $text-color) {
   #fff);
   &.alert-info {
     @include alert-variant(null,null,$blue,$blue,null);
+    }
 }
